@@ -1,0 +1,96 @@
+.search-button{
+    border-radius: 40em;
+    border: 1.2px solid rgb(226, 226, 226);
+    height: 45px;
+    width: 483px;
+    position: absolute;
+    top: 276px;
+    left: 388px;
+}
+.search-button:hover{
+    box-shadow: -1px 1px 6px rgb(221, 221, 221);
+}
+.search-button:active{
+    box-shadow: -1px 1px 6px rgb(221, 221, 221);
+}
+.image{
+    position: absolute;
+    top: 156px;
+    left: 493.5px;
+}
+.first-button{
+    position: absolute;
+    top: 351px;
+    left: 490px;
+    height: 34px;
+    width: 127px;
+    border-color: transparent;
+    border-radius: 4px;
+    background-color: rgb(241, 241, 241);
+    font-size: 14px;
+    color: rgb(104, 104, 104);
+}
+.first-button:hover{
+    border: 1px solid rgb(201, 201, 201);
+    background-color: rgb(245, 245, 245);
+}
+.second-button{
+    position: absolute;
+    top: 351px;
+    left: 630px;
+    height: 34px;
+    width: 142px;
+    border-color: transparent;
+    border-radius: 4px;
+    background-color: rgb(241, 241, 241);
+    font-size: 14px;
+    color: rgb(104, 104, 104);
+}
+.second-button:hover{
+    border: 1px solid rgb(201, 201, 201);
+    background-color: rgb(245, 245, 245);
+}
+.languages{
+    position: absolute;
+    top: 402px;
+    left: 420px;
+    font-size: 13.5px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.langs{
+    color: rgb(1, 1, 247);
+    word-spacing: 0.1cm;
+    position: absolute;
+    top: 415.9px;
+    left: 534px;
+    font-size: 13.5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kk:hover{
+    text-decoration: underline;
+}
+.mail{
+    word-spacing: 0.3cm;
+    position: absolute;
+    left: 1008px;
+    top: 23px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top-left:hover{
+    text-decoration: underline;
+}
+.signin{
+    color: white;
+    background-color: rgb(0, 119, 255);
+    border-color: transparent;
+    position: absolute;
+    left: 1160px;
+    top: 16px;
+    height: 30px;
+    width: 70px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
