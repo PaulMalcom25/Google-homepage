@@ -130,8 +130,14 @@ ul a:hover{
     font-size: 15px;
     color: rgb(105, 105, 105);
 }
-.bt{
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    border: 3px solid black;
+.search-icon{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
 }
