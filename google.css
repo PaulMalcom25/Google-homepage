@@ -6,6 +6,9 @@
     position: absolute;
     top: 276px;
     left: 388px;
+    outline: none;
+    line-height: 100px;
+    padding-left: 50px;
 }
 .search-button:hover{
     box-shadow: -1px 1px 6px rgb(221, 221, 221);
@@ -129,15 +132,4 @@ ul a:hover{
     padding: 11px 20px;
     font-size: 15px;
     color: rgb(105, 105, 105);
-}
-.search-icon{
-    float: left;
-    width: 20%;
-    padding: 10px;
-    background: #2196F3;
-    color: white;
-    font-size: 17px;
-    border: 1px solid grey;
-    border-left: none; /* Prevent double borders */
-    cursor: pointer;
 }
